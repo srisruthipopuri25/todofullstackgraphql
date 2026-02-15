@@ -1,4 +1,4 @@
-# 📝 Multi-User Todo App (Full Stack GraphQL)
+# Multi-User Todo App (Full Stack GraphQL)
 
 A full-stack multi-user Todo application built using **Next.js, GraphQL, Apollo Server, MongoDB, and Mongoose**.
 
@@ -12,7 +12,7 @@ This project demonstrates:
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### 🖥 Frontend
 - Next.js 16 (App Router)
@@ -33,14 +33,14 @@ This project demonstrates:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 
 ---
 
-## ✨ Features
+## Features
 
-### 👤 Users
+### Users
 - Create user
 - Read users
 - Update user
@@ -56,7 +56,7 @@ This project demonstrates:
 
 ---
 
-## 📡 GraphQL API
+##  GraphQL API
 
 ### Queries
 
